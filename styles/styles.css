@@ -1,7 +1,15 @@
 .NavBG {
     background-color: #000324;
-    top: 0px;
-    left: 0px;
     width: 1920px;
     height: 120px;
+} 
+.text-fix {
+    top: 83px;
+    left: 573px;
+    width: 70px;
+    height: 26px;
+    text-align: left;
+    font: normal normal normal 20px/26px Dosis;
+    letter-spacing: 0px;
+    opacity: 1;
 }
