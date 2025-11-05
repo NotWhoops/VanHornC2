@@ -1,15 +1,123 @@
 .NavBG {
     background-color: #000324;
-    width: 1920px;
-    height: 120px;
 } 
+
 .text-fix {
-    top: 83px;
-    left: 573px;
-    width: 70px;
-    height: 26px;
-    text-align: left;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+    height: 120px;
+    align-items: flex-end;
     font: normal normal normal 20px/26px Dosis;
-    letter-spacing: 0px;
+}
+
+.imageCenter {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.widthSize {
+    text-align: left;
+    width: 860px;
+}
+
+.textSize1 {
+    text-indent: 10px;
+}
+
+.textSize2 {
+    text-indent: -17px;
+}
+.textSize3 {
+    text-indent: -30px;
+}
+.textSize4 {
+    text-indent: 10px;
+}
+.textSize5 {
+    text-indent: -30px;
+}
+.textSize6 {
+    text-indent: 10px;
+}
+
+.borderBox1 {
+    margin-top: 90px;
+    width: 90px;
+    padding-top: 30px;
+    height: 35px;
+    border: 2px solid #E5FEFF;
     opacity: 1;
+}
+
+.wordBar {
+    border: 2px solid #000324;
+}
+
+.headerImage {
+    background-image: url(../assets/header.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.textImage {
+    text-align: center;
+    font: normal normal normal 45px/57px Dosis;
+    color: #E5FEFF;
+    opacity: 1;
+}
+
+.textImage2 {
+    text-align: center;
+    font: normal normal normal 16px/20px Source Sans Pro;
+    color: #E5FEFF;
+    opacity: 1;
+}
+
+.textBox1 {
+    padding-top: 65px;
+    top: 253px;
+    left: 488px;
+    width: 945px;
+    height: 232px;
+    background: #000324 0% 0% no-repeat padding-box;
+    opacity: 0.8;
+}
+
+.sizeBox1 {
+    padding-left: 450px;
+    padding-top: 222px;
+}
+
+.homeImage {
+    width: 369px;
+    height: 500px;
+    padding-top: 100px;
+}
+
+.homeText {
+    display: flex;
+}
+
+.homeAlign {
+    padding-right: 540px;
+    padding-top: 100px;
+}
+
+.homeText2 {
+    font: normal normal normal 50px Dosis;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+.homeText3 {
+    font: normal normal normal 35px/44px Dosis;
+    color: #1A1B26;
+    opacity: 1;
+}
+.homeWidth {
+    width: 600px;
 }
