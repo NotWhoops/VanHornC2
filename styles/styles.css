@@ -48,7 +48,6 @@
     padding-top: 30px;
     height: 35px;
     border: 2px solid #E5FEFF;
-    opacity: 1;
 }
 
 .wordBar {
@@ -67,29 +66,24 @@
     text-align: center;
     font: normal normal normal 45px/57px Dosis;
     color: #E5FEFF;
-    opacity: 1;
 }
 
 .textImage2 {
     text-align: center;
     font: normal normal normal 16px/20px Source Sans Pro;
     color: #E5FEFF;
-    opacity: 1;
 }
 
 .textBox1 {
     padding-top: 65px;
-    top: 253px;
-    left: 488px;
     width: 945px;
     height: 232px;
     background: #000324 0% 0% no-repeat padding-box;
-    opacity: 0.8;
 }
 
 .sizeBox1 {
-    padding-left: 450px;
-    padding-top: 222px;
+    padding-left: 545px;
+    padding-top: 210px;
 }
 
 .homeImage {
@@ -100,24 +94,79 @@
 
 .homeText {
     display: flex;
+    padding-left: 180px;
 }
 
 .homeAlign {
     padding-right: 540px;
-    padding-top: 100px;
+    padding-left: 20px;
+    padding-top: 90px;
 }
 
+.homeAlign2 {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+
 .homeText2 {
-    font: normal normal normal 50px Dosis;
+    font: normal normal normal 35px/44px Dosis;
     color: #1A1B26;
-    opacity: 1;
 }
 
 .homeText3 {
-    font: normal normal normal 35px/44px Dosis;
+    font: normal normal normal 16px/20px Source Sans Pro;
     color: #1A1B26;
-    opacity: 1;
 }
+
 .homeWidth {
-    width: 600px;
+    width: 2150px;
+}
+
+.space1 {
+    display: inline-flex;
+}
+
+.space2 {
+    width: 250px;
+    height: 153px;
+    padding-right: 80px;
+}
+
+.space3 {
+    width: 260px;
+    height: 193px;
+    padding-right: 80px;
+}
+
+.space4 {
+    width: 200px;
+    height: 175px;
+}
+
+.headerImage2 {
+    background-image: url(../assets/bg2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-top: 80px;
+}
+
+.roomSize {
+    text-align: center;
+    font: normal normal normal 35px/44px Dosis;
+    color: #FFFFFF;
+}
+
+.roomAlign1 {
+    margin-top: 50px;
+}
+
+.roomPad1 {
+    margin-left: 600px;
+}
+
+.roomPad2 {
+    margin-right: 200px;
 }
