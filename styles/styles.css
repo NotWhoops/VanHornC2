@@ -1,5 +1,6 @@
 .NavBG {
     background-color: #000324;
+    padding-left: 200px;
 } 
 
 .text-fix {
@@ -94,7 +95,7 @@
 
 .homeText {
     display: flex;
-    padding-left: 180px;
+    padding-left: 200px;
 }
 
 .homeAlign {
@@ -120,7 +121,11 @@
 }
 
 .homeWidth {
-    width: 2150px;
+    width: 755px;
+}
+
+.homeWidth2 {
+    width: 1020px;
 }
 
 .space1 {
@@ -169,4 +174,59 @@
 
 .roomPad2 {
     margin-right: 200px;
+}
+
+.content1 {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+
+.cardImg1 {
+    border-radius: 0;
+}
+
+.cardImg2 {
+    border-radius: 0;
+}
+
+.cardImg3 {
+    border-radius: 0;
+}
+
+.card1 {
+    border-radius: 0;
+    padding: 0px;
+}
+
+.text-blue1 {
+    color: #1F51A8;
+}
+
+.packageImgSize {
+    width: 561px;
+    height: 234px;
+}
+
+.packageText {
+    font: normal normal normal 25px/32px Dosis;
+    color: #1A1B26;
+}
+
+.packageText2 {
+    padding-left: 510px;
+    font: normal normal normal 33px/40px Dosis;
+    color: #1A1B26;
+}
+
+.paddingTop {
+    padding-top: 100px;
+}
+
+.paddingTop2 {
+    padding-top: 30px;
+}
+
+.pTag{
+    width: 561px;
 }
