@@ -230,3 +230,71 @@
 .pTag{
     width: 561px;
 }
+
+.headerImage3 {
+    background-image: url(../assets/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 548px;
+    margin-top: 80px;
+}
+
+.textColor {
+    font: normal normal normal 35px/44px Dosis;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.textColor2 {
+    font: normal normal normal 16px/20px Source Sans Pro;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.textcolor3 {
+    font: normal normal bold 20px/25px Source Sans Pro;
+    color: #FFFFFF;
+}
+
+.serviceSize {
+    width: 150px;
+    height: 101px;
+    margin-left: 20px;
+}
+
+.breakfastSize {
+    width: 150px;
+    height: 104px;
+    margin-left: 30px;
+}
+
+.valetSize {
+    width: 100px;
+    height: 115px;
+    margin-left: 10px;
+}
+
+.poolSize {
+    width: 155px;
+    height: 110px;
+}
+
+.amenitiesArea {
+    margin-top: 100px;
+}
+
+.amenitiesEnd {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.amenitiesSpace {
+    display: flex;
+    justify-content: center;
+}
+
+.amenitiesSpace2 {
+    margin-top: 30px;
+}
