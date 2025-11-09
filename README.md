@@ -6,4 +6,4 @@
 
  // created a website to resemble the given template 
 
-// Peer Review: 
+// Peer Review: Bryce Mack - website looks pretty sick, no errors and nice allignment.
